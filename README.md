@@ -1,6 +1,6 @@
 # ENSF-381-Lab5
-| Name |
-|-------------------|
-| Chloe Choi |
-| Maliha Chowdhury Adrita |
+| Names    | UCIDs |
+| ----------- | ----------- |
+| Maliha Chowdhury Adrita  | 30178040      |
+| Chloe Choi  | 30171441     |
 
